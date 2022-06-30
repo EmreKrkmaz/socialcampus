@@ -1,4 +1,4 @@
-# socialcampus
+# Social Campus
 My first MERN stack app.
 
 >>Website deployed on HEROKU. You can visit the website via : https://socialcampus0.herokuapp.com
